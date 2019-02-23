@@ -1,5 +1,3 @@
-//# implementation-of-linkedList
-//Here is the complete implementation of linkedList
 package Lab8_0;
 
 public class LinkedListImplementationFinal {
@@ -141,4 +139,3 @@ public class LinkedListImplementationFinal {
 	}
 
 }
-
